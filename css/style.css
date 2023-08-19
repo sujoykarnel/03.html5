@@ -1,0 +1,9 @@
+header a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border: solid 2px none;
+    border-radius: 10px;
+    margin: 0 5px;
+    background-image: linear-gradient(red, blue);
+    color: white;
+}
